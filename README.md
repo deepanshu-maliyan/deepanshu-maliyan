@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepanshu_Maliyan
-- 👀 I’m interested in Android and Web Apps Development using Android Studio and Flutter. 
+- 👀 I’m interested in iOS and Web Apps Development using Xcode, UIKit and SwiftUI 
 - 🌱 I’m currently learning Android Development with java and Backend Development.
 - 💞️ I’m looking to collaborate on Web Development Project.
 - 📫 How to reach me @deepanshumaliyan2003@outlook.com
