@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepanshu_Maliyan
 - 👀 I’m interested in iOS and Web Apps Development using Xcode, UIKit and SwiftUI 
-- 🌱 I’m currently learning Android Development with java and Backend Development.
-- 💞️ I’m looking to collaborate on Web Development Project.
+- 🌱 I’m currently learning App Development with Swift and Backend Development.
+- 💞️ I’m looking to collaborate on iOS App Development Project.
 - 📫 How to reach me @deepanshumaliyan2003@outlook.com
 
 <!---
