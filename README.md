@@ -22,7 +22,7 @@ I'm a pre-final year engineering student passionate about building meaningful te
 </p>
 ### 🌐 App Developement
 <p>
- <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=Swift" alt="sWIFT" /> <img src="https://img.shields.io/badge/TailwindCSS-61DAFB?style=flat&logo=SwiftUI" alt="SwiftUI" /> <img src="https://img.shields.io/badge/Bootstrap-61DAFB?style=flat&logo=UIKit" alt="UIKit" /> 
+ <img src="https://img.shields.io/badge/Swift-61DAFB?style=flat&logo=Swift" alt="sWIFT" /> <img src="https://img.shields.io/badge/SwiftUI-61DAFB?style=flat&logo=SwiftUI" alt="SwiftUI" /> <img src="https://img.shields.io/badge/UIKit-61DAFB?style=flat&logo=UIKit" alt="UIKit" /> 
 </p>
 ### ⚙️ Backend Development
 <p>
