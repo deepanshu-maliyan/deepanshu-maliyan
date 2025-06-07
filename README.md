@@ -20,6 +20,10 @@ I'm a pre-final year engineering student passionate about building meaningful te
 <p>
 <img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=css3" alt="CSS3" /> <img src="https://img.shields.io/badge/TailwindCSS-61DAFB?style=flat&logo=tailwindcss" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Bootstrap-61DAFB?style=flat&logo=bootstrap" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Next.js-61DAFB?style=flat&logo=next.js" alt="Next.js" />
 </p>
+### 🌐 App Developement
+<p>
+ <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=Swift" alt="sWIFT" /> <img src="https://img.shields.io/badge/TailwindCSS-61DAFB?style=flat&logo=SwiftUI" alt="SwiftUI" /> <img src="https://img.shields.io/badge/Bootstrap-61DAFB?style=flat&logo=UIKit" alt="UIKit" /> 
+</p>
 ### ⚙️ Backend Development
 <p>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js" alt="Express.js" /> <img src="https://img.shields.io/badge/FastAPI-43853D?style=flat&logo=fastapi" alt="FastAPI" />
@@ -62,24 +66,24 @@ I'm a pre-final year engineering student passionate about building meaningful te
 # 📊 GitHub Statistics
 
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deepanshu-maliyan&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=username&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=deepanshu-maliyan&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=username&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepanshu-maliyan&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=username&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
 </p>
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-maliyan&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
 </p>
 <p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-maliyan&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=username&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-maliyan/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.deepanshumaliyan@Gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-maliyan/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.deepanshumaliyan@Gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](deepanshumaliyan.ml)
 
 <p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -90,5 +94,5 @@ I'm a pre-final year engineering student passionate about building meaningful te
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=deepanshu-maliyan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
